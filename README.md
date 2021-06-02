@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="450" height ="450"> 
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" width="470" height ="470"> 
 </p>
 
 <p align="center">
